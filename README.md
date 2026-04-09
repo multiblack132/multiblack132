@@ -1,16 +1,18 @@
-## Hi there 👋
+# LOG320 - Solutions et Exercices (ÉTS)
 
-<!--
-**multiblack132/multiblack132** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Solutions Java, implémentations d'algorithmes et exercices pour le cours **Structures de données et algorithmes (LOG320)** à l'ÉTS.
 
-Here are some ideas to get you started:
+**Objectif** : Maîtriser les fondamentaux + préparation stage génie TI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Progression par semaine
+
+| Semaine | Thèmes principaux                          | Statut     | Dernier commit |
+|---------|--------------------------------------------|------------|----------------|
+| 01      | Tris simples                               | En cours   | 2026-04-09     |
+| 02      | Récursion + Diviser-pour-régner            | À faire    | -              |
+| ...     | ...                                        | ...        | ...            |
+
+**Langage** : Java 17+  
+**Outils** :  VS Code
+
+⭐ Repo mis à jour chaque semaine !
