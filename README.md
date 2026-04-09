@@ -1,18 +1,43 @@
-# LOG320 - Solutions et Exercices (ÉTS)
+# Aymen Benderis
 
-Solutions Java, implémentations d'algorithmes et exercices pour le cours **Structures de données et algorithmes (LOG320)** à l'ÉTS.
+**Étudiant en Génie TI (Dernière année) — ÉTS Montréal**
 
-**Objectif** : Maîtriser les fondamentaux + préparation stage génie TI.
+Je suis à la recherche de **deux stages** en **Réseau, Sécurité, IA ou Cloud** (été et automne 2026).
 
-## Progression par semaine
+---
 
-| Semaine | Thèmes principaux                          | Statut     | Dernier commit |
-|---------|--------------------------------------------|------------|----------------|
-| 01      | Tris simples                               | En cours   | 2026-04-09     |
-| 02      | Récursion + Diviser-pour-régner            | À faire    | -              |
-| ...     | ...                                        | ...        | ...            |
+## À propos
 
-**Langage** : Java 17+  
-**Outils** :  VS Code
+- Apprentissage actif de **Java**
+- Objectif dans un futur proche:  Python, Linux, Réseaux, Sécurité et IA
+- Création de plusieurs petits projets pour mettre en pratique mes connaissances
+  
 
-⭐ Repo mis à jour chaque semaine !
+---
+
+## Compétences principales
+
+- Java (principal)
+- Réseaux 
+- Bases de Sécurité 
+- Git & GitHub
+
+---
+
+## Projets (en cours)
+
+- Solutions LeetCode & LOG320 (Java)
+- Chat LAN sécurisé (Java Sockets + chiffrement)
+- Projets IA et réseau à venir
+
+---
+
+## Formation
+
+Baccalauréat en Génie des Technologies de l’Information  
+École de Technologie Supérieure (ÉTS) — Dernière année
+
+---
+
+
+Merci pour votre visite !
